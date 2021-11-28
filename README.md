@@ -3,7 +3,7 @@
 
 ## Description
 
-a simple node generated readme using inquirer
+With this application, you can generate a simple node generated readme using inquirer for any program created
 
 ## Table of Contents 
 
@@ -21,15 +21,15 @@ a simple node generated readme using inquirer
 
 ## Installation
 
-To install necessary dependencies, run the following command:
+To install necessary dependencies, fork this repository and run the following command in your terminal:
 
 ```
-undefined
+npm i
 ```
 
 ## Usage
 
-undefined
+With this program, you can generate a simple node generated readme
 
 ## License
 
@@ -37,17 +37,19 @@ This project is licensed under the Apache license.
   
 ## Contributing
 
-undefined
+Matt Thurber
 
 ## Tests
 
 To run tests, run the following command:
 
 ```
-undefined
+node.index.js
 ```
+
+When promted for an editor for your entries, it will open in your default text editor. Saving and closing the text file will update the entry value in the terminal.
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at mthurber. You can find more of my work at [mthurber](https://github.com/mthurber/).
+If you have any questions about the repo, open an issue or contact me directly at mthurber82@gmail.com. You can find more of my work at [mthurber](https://github.com/mthurber/).
 
