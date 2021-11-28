@@ -36,6 +36,10 @@ ${renderLicenseBadge(data.license)}
 
 ${data.description}
 
+** Deployed Site
+
+[${data.title}](${data.deploy})
+
 ## Table of Contents 
 
 * [Installation](#installation)

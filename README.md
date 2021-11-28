@@ -1,9 +1,9 @@
-# undefined
-![GitHub license](https://img.shields.io/badge/license-undefined-blue.svg)
+# README GENERATOR
+![GitHub license](https://img.shields.io/badge/license-Apache-blue.svg)
 
 ## Description
 
-undefined
+a simple node generated readme using inquirer
 
 ## Table of Contents 
 
@@ -33,7 +33,7 @@ undefined
 
 ## License
 
-This project is licensed under the undefined license.
+This project is licensed under the Apache license.
   
 ## Contributing
 
@@ -49,5 +49,5 @@ undefined
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at something. You can find more of my work at [something](https://github.com/something/).
+If you have any questions about the repo, open an issue or contact me directly at mthurber. You can find more of my work at [mthurber](https://github.com/mthurber/).
 
